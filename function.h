@@ -89,3 +89,7 @@ You are figthing, THE REAPER!
 )" << '\n';
   }
 }
+
+void exit(
+   int const status
+);
